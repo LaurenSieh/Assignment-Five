@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+h1{
+    background-color: darkseagreen;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Mansalva', cursive;
+    color: black;
+}
+div{
+    text-align: left;
+    color: black;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

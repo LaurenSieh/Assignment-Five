@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+h1{
+    background-color: darkseagreen;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Mansalva', cursive;
+    color: black;
+}
+h2{
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+h3{
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}

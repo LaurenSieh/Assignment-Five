@@ -1,0 +1,36 @@
+body{
+    background-color: bisque
+}
+h1{
+    background-color: darkseagreen;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Mansalva', cursive;
+    color: black;
+}
+a{
+    font-weight: 700;
+    font-size: 30px;
+    text-decoration: none;
+    color: darkslateblue
+}
+a:nth-last-of-type(1){
+    position: fixed;
+    top: 25vh;
+    right:5vw;
+}
+a:nth-last-of-type(2){
+    position: fixed;
+    top:25vh;
+    right:35vw;
+}
+a:nth-last-of-type(3){
+    position: fixed;
+    top:25vh;
+    left:35vw;
+}
+a:nth-last-of-type(4){
+    position: fixed;
+    top:25vh;
+    left: 5vw;
+}
